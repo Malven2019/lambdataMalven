@@ -1,0 +1,9 @@
+README.md
+setup.py
+LAMBDATAMALVEN.egg-info/PKG-INFO
+LAMBDATAMALVEN.egg-info/SOURCES.txt
+LAMBDATAMALVEN.egg-info/dependency_links.txt
+LAMBDATAMALVEN.egg-info/top_level.txt
+lambdata/City.py
+lambdata/Duplicate.py
+lambdata/__init__.py
