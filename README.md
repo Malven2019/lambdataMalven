@@ -5,7 +5,10 @@ The repository contains a function to detect duplicate columns and the other one
 e.g FL - Florida etc
 
 ##Installation
+```
+pip install -i https://test.pypi.org/simple/ LAMBDATAMALVEN
 Git clone and navigate to the repo from your command-line:
+```
 
 ##Usage
 ```

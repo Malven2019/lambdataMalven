@@ -6,6 +6,7 @@ from pandas import DataFrame
 # State abbreviation - Full name and vice versa
 # FL - Florida etc
 
+df = DataFrame({'abbrev': ['CA', 'CO', 'CT', 'DC', 'TX']})
 
 def add_state_names_columns(my_df):
     """
