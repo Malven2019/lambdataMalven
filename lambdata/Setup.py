@@ -16,5 +16,5 @@ setup(
     #license="MIT",
     url="https://github.com/Malven2019/LambdataMalven",
     #keywords="",
-    packages=['lambdata'] #find_packages()  # ["lambdata"]
+    packages=['lambdataMalven'] #find_packages()  # ["lambdata"]
 )
